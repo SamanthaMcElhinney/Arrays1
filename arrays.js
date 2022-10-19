@@ -1,0 +1,1 @@
+var stores = ["Best Buy","Hallmark"], 
